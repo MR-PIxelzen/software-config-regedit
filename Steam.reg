@@ -1,6 +1,5 @@
 Windows Registry Editor Version 5.00
 
-
 [HKEY_CURRENT_USER\SOFTWARE\Valve\Steam]
 "SmoothScrollWebViews"=dword:00000000
 "DWriteEnable"=dword:00000000
@@ -9,7 +8,6 @@ Windows Registry Editor Version 5.00
 "DPIScaling"=dword:00000000
 "GPUAccelWebViews"=dword:00000000
 "BigPictureInForeground"=dword:00000000
-
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SteamService.exe]
 
